@@ -1,1 +1,2 @@
 print("Alma")
+print("Körte")
